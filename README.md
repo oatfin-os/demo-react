@@ -3,7 +3,7 @@
 Build the Docker image:
 
 ```
-docker build . -t demo-ui
+docker build -t demo-ui .
 ```
 
 Run the image:
